@@ -1,0 +1,8 @@
+C:\github\mrrajeshrai\EPPlusExamples\EPPlusExamples\bin\Debug\EPPlusExamples.exe.config
+C:\github\mrrajeshrai\EPPlusExamples\EPPlusExamples\bin\Debug\EPPlusExamples.exe
+C:\github\mrrajeshrai\EPPlusExamples\EPPlusExamples\bin\Debug\EPPlusExamples.pdb
+C:\github\mrrajeshrai\EPPlusExamples\EPPlusExamples\bin\Debug\EPPlus.dll
+C:\github\mrrajeshrai\EPPlusExamples\EPPlusExamples\bin\Debug\EPPlus.xml
+C:\github\mrrajeshrai\EPPlusExamples\EPPlusExamples\obj\Debug\EPPlusExamples.csproj.CoreCompileInputs.cache
+C:\github\mrrajeshrai\EPPlusExamples\EPPlusExamples\obj\Debug\EPPlusExamples.exe
+C:\github\mrrajeshrai\EPPlusExamples\EPPlusExamples\obj\Debug\EPPlusExamples.pdb
